@@ -1,0 +1,1 @@
+{"version":3,"file":"budgets.providers.js","sourceRoot":"","sources":["../../src/budgets/budgets.providers.ts"],"names":[],"mappings":";;;AACA,mDAAyC;AAE5B,QAAA,gBAAgB,GAAG;IAC5B;QACI,OAAO,EAAE,mBAAmB;QAC5B,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CAAC,UAAU,CAAC,aAAa,CAAC,sBAAM,CAAC;QACxE,MAAM,EAAE,CAAC,aAAa,CAAC;KAC1B;CACJ,CAAC"}
